@@ -1,0 +1,6 @@
+*.swp
+cordova/platforms/
+cordova/node_modules/
+cordova/plugins/
+cordova/res
+cordova/www
